@@ -6,7 +6,7 @@ library(shiny)
 
 shinyUI(pageWithSidebar( 
   
-  headerPanel("Google Analytics"), 
+  headerPanel("Análisis de datos"), 
   
   sidebarPanel( 
     
