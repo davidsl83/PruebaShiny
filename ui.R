@@ -6,7 +6,7 @@ library(shiny)
 
 shinyUI(pageWithSidebar( 
   
-  headerPanel("Análisis de datos"), 
+  headerPanel("Analisis de datos"), 
   
   sidebarPanel( 
     
